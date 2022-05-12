@@ -3,7 +3,7 @@ Template for full stack .net core basic vue js web app including web api, EF 6 c
 The .net core projects use .net 6.0 framework.
 
 To run the code:
-1. Clone the repository in Visual Studio 2022.
+1. Clone the repository in Visual Studio 2022. (https://github.com/xmione/AVBMarketing.git)
 2. Press F5 to build and run.
 3. Multiple startup projects were already set by default, the Web API and the Basic Vue JS project.
 4. After running, two tabs will open for the Web API and the Vue JS pages. See image below: 
