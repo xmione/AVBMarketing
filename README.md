@@ -11,4 +11,4 @@ To run the code:
 ![image](https://user-images.githubusercontent.com/13359515/168050085-3cac647d-9e29-4d57-89b3-22544e4f2ece.png)
 
 
-Future plans for this includes adding Specflow+Selenium+MSTest project.
+Future plans for this includes adding Specflow+Selenium+MSTest project and also the dockerization of the app.
