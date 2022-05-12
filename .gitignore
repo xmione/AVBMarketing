@@ -2,15 +2,14 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/AVBMarketing.Test/AVBMarketing.API/bin/Debug/net6.0
-/AVBMarketing.Test/AVBMarketing.API/obj
-/AVBMarketing.Test/AVBMarketing.EF/bin/Debug/net6.0
-/AVBMarketing.Test/AVBMarketing.EF/obj
-/AVBMarketing.Test/AVBMarketing.Repositories/bin/Debug/net6.0
-/AVBMarketing.Test/AVBMarketing.Repositories/obj
-/AVBMarketing.Test/AVBMarketing.Test/bin/Debug/net6.0
-/AVBMarketing.Test/AVBMarketing.Test/obj
-/AVBMarketing.Test/AVBMarketing.Web/bin
-/AVBMarketing.Test/AVBMarketing.Web/node_modules
-/AVBMarketing.Test/AVBMarketing.Web/obj
-/AVBMarketing.Test/backup/AVBMerketing.EF
+/AVBMarketing.API/bin/Debug/net6.0
+/AVBMarketing.API/obj
+/AVBMarketing.EF/bin/Debug/net6.0
+/AVBMarketing.EF/obj
+/AVBMarketing.Repositories/bin/Debug/net6.0
+/AVBMarketing.Repositories/obj
+/AVBMarketing.Test/bin/Debug/net6.0
+/AVBMarketing.Test/obj
+/AVBMarketing.Web/bin
+/AVBMarketing.Web/node_modules
+/AVBMarketing.Web/obj
